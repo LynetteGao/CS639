@@ -1,3 +1,5 @@
+<embed src="https://sumanbogati.github.io/639_project_proposal.pdf" type="application/pdf" />
+
 
 ## 639 project proposal - Facial Expression Classification
 
