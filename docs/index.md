@@ -1,4 +1,4 @@
-<embed src="https://sumanbogati.github.io/639_project_proposal.pdf" type="application/pdf" />
+<embed src="https://lynettegao.github.io/639_project_proposal.pdf" type="application/pdf" width="1000px" height="800px" />
 
 
 ## 639 project proposal - Facial Expression Classification
