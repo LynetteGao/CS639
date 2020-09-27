@@ -1,4 +1,4 @@
-<embed src="https://lynettegao.github.io/639_project_proposal.pdf" type="application/pdf" width="1000px" height="800px" />
+<embed src="https://github.com/LynetteGao/CS639/raw/master/639_project_proposal.pdf" type="application/pdf" width="1000px" height="800px" />
 
 
 ## 639 project proposal - Facial Expression Classification
