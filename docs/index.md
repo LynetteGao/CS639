@@ -27,14 +27,14 @@ Oct 16 - Nov 3: Implementing network and algorithms
 Nov 3 - Dec 2: Training and improving models. Prepare for presentation and final write-up
 
 ### Experiments
-#### Image processing
+##### Image processing
 Our image data have already been aligned based on the two-eye locations and the position of the mouths and resized to 100*100 pixels. Since our samples include faces from different genders and races, it becomes important for us to take this information into consideration. Faces in some photos are pointing into different angles, which could result in various light and color intensity. Since the upright faces are of great interest, we will perform basic rotations to those images. 
 
 In some photos, people wear glasses. Those images would not be a big issue for our project since these glasses are transparent and we can still be able to detect the facial features. 
 
 It is also essential to include the images that show neutral emotion in our samples. We will use those images to improve the facial detection ability.
 
-#### Network Training
+##### Network Training
 There are many existing architectures and techniques that can be applied to facial expression recognition. We plan to implement multiple models using Convolutional Neural Network (CNN) architectures, including VGGNet \cite{simonyan2014deep}, AlexNet \cite{NIPS2012_4824}, GoogLeNet \cite{szegedy2014going} and ResNet \cite{he2015deep}. CNN is one of the most widely-used technique for facial expression recognition, as it has been proved to be robust to face location and good at normalization \cite{Fasel_2002}. All of the models we choose are competitors in ImageNet Large Scale Visual Recognition Challenge (ILSVRC), with different training methods and achievements \cite{Khan_2020}\cite{Li_2020}. We want to experiment on the parameters of those models. By manipulating parameters like batch size, layer type, etc., we hope to achieve best performance of each model, and evaluate the advantages and shortcomings of our models.
 
 ### Evaluation
