@@ -1,4 +1,4 @@
-<embed src="https://drive.google.com/file/d/1PAvDfMRERImOBoH-00EgHhBdd-seZj3g/view?usp=sharing" width="1000px" height="800px" toolbar=0/>
+<embed src="lynettegao.github.io/Facial-Expression-Recognition/639_project_proposal.pdf" width="1000px" height="800px" toolbar=0/>
 
 
 
