@@ -1,4 +1,5 @@
-<iframe src="https://drive.google.com/file/d/1PAvDfMRERImOBoH-00EgHhBdd-seZj3g/preview" width="640" height="480"></iframe>
+
+<embed src="https://drive.google.com/file/d/1PAvDfMRERImOBoH-00EgHhBdd-seZj3g/preview" width="1000px" height="800px" />
 
 ## 639 project proposal - Facial Expression Classification
 
