@@ -1,4 +1,4 @@
-<embed src="https://github.com/LynetteGao/Facial-Expression-Recognition/blob/master/639_project_proposal.pdf" width="1000px" height="800px" toolbar=0/>
+<embed src="../639_project_proposal.pdf" width="1000px" height="800px" toolbar=0/>
 
 
 
