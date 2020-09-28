@@ -1,5 +1,9 @@
-<embed src="lynettegao.github.io/Facial-Expression-Recognition/639_project_proposal.pdf" width="1000px" height="800px" toolbar=0/>
 
+<object data="https://github.com/LynetteGao/Facial-Expression-Recognition/raw/master/639_project_proposal.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/LynetteGao/Facial-Expression-Recognition/raw/master/639_project_proposal.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 ## 639 project proposal - Facial Expression Classification
