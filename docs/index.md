@@ -1,6 +1,4 @@
-
-<embed src="https://lynettegao.github.io/Facial-Expression-Recognition/639_project_proposal.pdf" type="application/pdf" />
-
+<iframe src="https://drive.google.com/file/d/1PAvDfMRERImOBoH-00EgHhBdd-seZj3g/preview" width="640" height="480"></iframe>
 
 ## 639 project proposal - Facial Expression Classification
 
