@@ -1,5 +1,6 @@
 
-<embed src="https://https://lynettegao.github.io/639_project_proposal.pdf" type="application/pdf" />
+<embed src="https://lynettegao.github.io/Facial-Expression-Recognition/639_project_proposal.pdf" type="application/pdf" />
+
 
 ## 639 project proposal - Facial Expression Classification
 
